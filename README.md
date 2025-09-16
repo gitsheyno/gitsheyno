@@ -2,7 +2,7 @@
 
 **Heidary • he/him**
 
-- 🏢 KNIME GmbH
+- 🏢 Pickshare GmbH
 - 📍 Berlin
 - 🕰️ 15:37 - same time
 - 📧 [ShayanHeidary](https://github.com/gitsheyno)
@@ -10,7 +10,6 @@
 ## 🙋‍♂️ About Me
 
 - 🌍 I'm based in Berlin
-- 🚀 I'm currently working on KNIME
 - 👨‍💻 I'm a Software Engineer with a focus on Frontend
 
 ## 🌐 Socials
