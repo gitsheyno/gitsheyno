@@ -2,14 +2,14 @@
 
 **Heidary • he/him**
 
-- 🏢 Pickshare GmbH
-- 📍 Berlin
+- 🏢 Druckhaus GmbH
+- 📍 Bochum
 - 🕰️ 15:37 - same time
 - 📧 [ShayanHeidary](https://github.com/gitsheyno)
 
 ## 🙋‍♂️ About Me
 
-- 🌍 I'm based in Berlin
+- 🌍 I'm based in Bochum
 - 👨‍💻 I'm a Software Engineer with a focus on Frontend
 
 ## 🌐 Socials
