@@ -1,48 +1,179 @@
-# Shayan Heidary
+![Shayan Heidary — Software Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Shayan%20Heidary&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Building%20software%20from%20interface%20to%20infrastructure&descAlignY=56&descSize=17)
 
-**Heidary • he/him**
+<div align="center">
 
-- 🏢 Druckhaus GmbH
-- 📍 Bochum
-- 🕰️ 15:37 - same time
-- 📧 [ShayanHeidary](https://github.com/gitsheyno)
+[![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&random=false&width=850&height=55&lines=Software+Engineer+%E2%80%A2+Full-Stack+Development;AI+Engineering+%E2%80%A2+Agentic+Workflows;Frontend+%E2%80%A2+Backend+%E2%80%A2+Infrastructure;Building+reliable+products+from+idea+to+production)](https://git.io/typing-svg)
 
-## 🙋‍♂️ About Me
+I create dynamic, high-performance products with modern frontend architecture,  
+Node.js backends, agentic workflows, and reliable production infrastructure.
 
-- 🌍 I'm based in Bochum
-- 👨‍💻 I'm a Software Engineer with a focus on Frontend
+<p>
+  <a href="https://sheyno.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/gitsheyno">
+    <img src="https://img.shields.io/badge/GitHub-gitsheyno-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://de.linkedin.com/in/shayan-heidary">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hdrydeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## 🌐 Socials
+📍 Bochum, Germany · 🏢 Druckhaus Bochum GmbH
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-heidary/)
+</div>
 
-## 💻 Tech Stack
+---
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 👋 About me
+
+I’m a software engineer with **4+ years of experience** building and shipping digital products. My strongest background is in frontend architecture, but my work extends across the full development lifecycle—from designing interfaces and APIs to deploying and maintaining applications in production.
+
+My experience includes building software for:
+
+- Dynamic, high-performance web applications
+- E-commerce and digital printing platforms
+- City logistics and delivery operations
+- Data analytics and visualization products
+- Open-source platforms
+- Internal business tools
+- Reusable component libraries and npm packages
+
+I enjoy solving complex product problems, modernizing legacy systems, and creating software that is useful, maintainable, and built to evolve.
+
+---
+
+## ⚡ Engineering focus
+
+### Frontend engineering
+
+- Building scalable applications with **React, Next.js, Vue.js and TypeScript**
+- Designing maintainable frontend architectures and design systems
+- Creating reusable component libraries with **Storybook**
+- Developing accessible and responsive user experiences
+- Improving performance, Core Web Vitals and technical SEO
+
+### Backend and system design
+
+- Developing server-side applications with **Node.js and Express**
+- Designing secure **REST, GraphQL and tRPC APIs**
+- Implementing authentication, authorization and account lifecycles
+- Working with PostgreSQL, MongoDB and data-driven workflows
+- Applying system-design principles across clients, APIs, services and data
+
+### AI and agentic development
+
+- Developing LLM-powered product features and intelligent interfaces
+- Designing agentic software workflows
+- Building real-time streaming AI experiences
+- Using the Vercel AI SDK for AI-enabled applications
+- Working with **Codex and AI-assisted engineering workflows**
+
+### Infrastructure and delivery
+
+- Building automated testing and **CI/CD pipelines**
+- Containerizing applications with **Docker and Docker Compose**
+- Configuring Nginx for secure application delivery
+- Managing deployments with **AWS and Coolify**
+- Monitoring, maintaining and improving production applications
+
+---
+
+## 🧰 Technology
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend
+
+`React`  
+`Next.js`  
+`Vue.js`  
+`Nuxt.js`  
+`React Native`  
+`TypeScript`  
+`Redux Toolkit`  
+`Pinia`  
+`Tailwind CSS`  
+`Sass`  
+`Storybook`
+
+</td>
+<td valign="top" width="50%">
+
+### Backend and data
+
+`Node.js`  
+`Express`  
+`REST APIs`  
+`GraphQL`  
+`tRPC`  
+`PostgreSQL`  
+`MongoDB`  
+`JWT`  
+`Authentication`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### AI engineering
+
+`LLM Integration`  
+`Agentic Workflows`  
+`Vercel AI SDK`  
+`Streaming AI Interfaces`  
+`Codex`  
+`AI-Assisted Development`
+
+</td>
+<td valign="top" width="50%">
+
+### Infrastructure and quality
+
+`Docker`  
+`Docker Compose`  
+`Nginx`  
+`AWS`  
+`Coolify`  
+`CI/CD`  
+`Playwright`  
+`Jest`  
+`Vitest`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 From idea to production
+
+<div align="center">
+
+`DISCOVER` → `DESIGN` → `BUILD` → `TEST` → `DEPLOY` → `IMPROVE`
+
+</div>
+
+I care about the full journey from an initial product problem to dependable software running in production.
+
+> Clean architecture matters. Reliable delivery matters. The final product should be valuable to its users and straightforward for engineers to maintain.
+
+---
+
+<div align="center">
+
+### Have an interesting product challenge?
+
+[**Explore my portfolio →**](https://sheyno.vercel.app/)
+
+<sub>Let’s build something useful.</sub>
+
+</div>
+
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn)
